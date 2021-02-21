@@ -1,0 +1,14 @@
+.NavBar {
+  background-color: #17171a;
+  color: #fafafa;
+  height: 5vh;
+  width: 100vw;
+  box-shadow: 0 3px 4px #11111130;
+  margin-top: -20px;
+  padding-bottom: 16px;
+}
+
+.NavText {
+  padding-left: 21vw;
+  padding-top: 20px;
+}
