@@ -5,9 +5,7 @@ class landing extends Component {
     return (
       <div className="landing">
         <header className="App-header">
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <p>Crypto' Tracker all rights reversed. Creator, Chase Simmons.</p>
           <a
             className="App-link"
             href="https://reactjs.org"
