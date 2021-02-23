@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 
 import './App.css';
-import './landing.css';
+import './Landing.css';
 import './Nav.css';
+import './CoinChart.css';
 
 class Css extends Component {
   render() {

@@ -1,9 +1,14 @@
 import React, { Component } from 'react';
 
+import Components from '../components/.list.js';
+
 class landing extends Component {
   render() {
     return (
       <div className="landing">
+        <div>
+          <Components.CoinChart />
+        </div>
         <header className="App-header">
           <p>Crypto' Tracker all rights reversed. Creator, Chase Simmons.</p>
           <a

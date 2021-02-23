@@ -1,0 +1,10 @@
+.CoinChart {
+  user-select: none;
+  width: 80%;
+  height: 30vh;
+  margin-left: 10%;
+  background-color: #f1f1f1;
+  border: 2px solid black;
+  border-radius: 10px;
+  overflow: hidden;
+}

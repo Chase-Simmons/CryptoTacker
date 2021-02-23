@@ -1,7 +1,7 @@
-import landing from './landing';
+import Landing from './Landing';
 
-const pages = {
-  landing,
+const Pages = {
+  Landing,
 };
 
-export default pages;
+export default Pages;
