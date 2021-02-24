@@ -8,6 +8,10 @@ class landing extends Component {
       <div className="landing">
         <div>
           <Components.CoinChart />
+          <div>
+            <div style={{ marginTop: '40px' }} />
+            <Components.ShouldSell />
+          </div>
         </div>
         <header className="App-header">
           <p>Crypto' Tracker all rights reversed. Creator, Chase Simmons.</p>

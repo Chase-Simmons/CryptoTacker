@@ -1,0 +1,8 @@
+.ShouldSell {
+  width: 20%;
+  height: 50px;
+  margin-left: 20%;
+  background-color: #f1f1f1;
+  border: 2px solid black;
+  border-radius: 10px;
+}

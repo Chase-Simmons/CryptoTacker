@@ -4,6 +4,7 @@ import './App.css';
 import './Landing.css';
 import './Nav.css';
 import './CoinChart.css';
+import './ShouldSell.css';
 
 class Css extends Component {
   render() {
