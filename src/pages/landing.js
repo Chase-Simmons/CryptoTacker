@@ -6,11 +6,13 @@ class landing extends Component {
   render() {
     return (
       <div className="landing">
+        <div style={{ marginTop: '200px' }} />
         <div>
           <Components.CoinChart />
           <div>
             <div style={{ marginTop: '40px' }} />
             <Components.ShouldSell />
+            <Components.ProfitPercentage />
           </div>
         </div>
         <header className="App-header">

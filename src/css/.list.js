@@ -5,6 +5,7 @@ import './Landing.css';
 import './Nav.css';
 import './CoinChart.css';
 import './ShouldSell.css';
+import './ProfitPercentage.css';
 
 class Css extends Component {
   render() {
